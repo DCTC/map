@@ -3,10 +3,6 @@
 <head>
 <meta charset=utf-8 />
 <title></title>
- <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
   <script src='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.js'></script>
   <link href='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.css' rel='stylesheet' />
   <!--[if lte IE 8]>
@@ -90,7 +86,7 @@ var markerLayer = L.mapbox.markerLayer()
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
         map.markerLayer.setFilter(function(f) {
-            return f.properties['marker-color'] === '#000000';
+            return f.properties['marker-color'] === '"#000000"';
         });
         return false;
     };
