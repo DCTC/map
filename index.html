@@ -77,6 +77,7 @@ var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 var markerLayer = L.mapbox.markerLayer()
     .loadURL('map.geojson')
     .addTo(map);
+	
  var death = document.getElementById('filter-death');
     var all = document.getElementById('filter-all');
 
@@ -86,7 +87,7 @@ var markerLayer = L.mapbox.markerLayer()
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
         map.markerLayer.setFilter(function(f) {
-            return f.properties['marker-color'] === '#000000';
+            return f.properties['marker-color'] === '#fefdfb';
         });
         return false;
     };
