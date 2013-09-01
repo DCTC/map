@@ -11,7 +11,7 @@
   <style>
     body { margin:0; padding:0; }
     #map { position:absolute; top:0; bottom:0; width:100%; }
-	
+
   </style>
 <style>
     #map-ui {
@@ -72,21 +72,11 @@
 </div>
 <div id='map'></div>
 <script type='text/javascript'>
- var map = mapbox.map('map');
+var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 
-  map.addLayer(mapbox.layer().id('atnatah.map-p4ibshg7'));
-
-  var markersLayer = mapbox.markers.layer().loadURL('map.geojson', function() {
-
-      // This code is in the second callback to id because it depends
-      // on the features being loaded asynchronously. If it were put right
-      // after the call to .id(), the markers layer wouldn't contain any
-      // data - it would still be on its way from MapBox to the browser.
-
-      // Cinch the map display to show all markers
-      map.extent(markersLayer.extent());
-
-	
+var markerLayer = L.mapbox.markerLayer()
+    .loadURL('map.geojson')
+    .addTo(map);
  var death = document.getElementById('filter-death');
     var all = document.getElementById('filter-all');
 
@@ -96,7 +86,7 @@
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
         map.markerLayer.setFilter(function(f) {
-            return f.properties['marker-color'] === '#fefdfb';
+            return f.properties['marker-color'] === '#000000';
         });
         return false;
     };
@@ -109,10 +99,7 @@
             return true;
         });
         return false;
-	};
-	  });
-
-  map.addLayer(markersLayer);
+    };
 </script>
 </body>
 </html>
