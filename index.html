@@ -86,7 +86,7 @@ var markerLayer = L.mapbox.markerLayer()
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
         map.markerLayer.setFilter(function(f) {
-            return f.properties['marker-color'] === '"#000000"';
+            return f.properties['marker-color'] === '#000000';
         });
         return false;
     };
