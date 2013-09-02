@@ -66,6 +66,13 @@
 <body>
 <div id='map-ui'>
     <ul>
+        <li><a href='#' id='filter-sick'>Sick Person</a></li>
+        <li><a href='#' id='filter-disorderly-conduct'>Disorderly Conduct</a></li>
+        <li><a href='#' id='filter-family-disturbance'>Family Disturbance</a></li>
+        <li><a href='#' id='filter-adw'>Assault with a deadly weapon</a></li>
+        <li><a href='#' id='filter-robbery'>Robbery</a></li>
+        <li><a href='#' id='filter-hate'>Hate Crimes</a></li>
+        <li><a href='#' id='filter-misc'>Misc Reports</a></li>
         <li><a href='#' id='filter-death'>Deaths</a></li>
         <li><a href='#' class='active' id='filter-all'>show all events</a></li>
     </ul>
@@ -80,24 +87,121 @@ var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 	
 		
  var death = document.getElementById('filter-death');
+ var sick = document.getElementById('filter-sick');
+ var dc = document.getElementById('filter-disorderly-conduct');
+ var fd = document.getElementById('filter-family-disturbance');
+ var adw = document.getElementById('filter-adw');
+ var robbery = document.getElementById('filter-robbery');
+ var hate = document.getElementById('filter-hate');
+ var misc = document.getElementById('filter-misc');
+
     var all = document.getElementById('filter-all');
 
-    death.onclick = function(e) {
-		debugger;
+    fd.onclick = function(e) {
         all.className = '';
         this.className = 'active';
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
         markerLayer.setFilter(function(f) {
-    debugger;
+	        return f.properties['marker-color'] === '#79D289';
+     
+	   });
+        return false;
+    };
+    adw.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
+	        return f.properties['marker-color'] === '#914BC3';
+     
+	   });
+        return false;
+    };
+	    misc.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
 	        return f.properties['marker-color'] === '#fefdfb';
      
 	   });
         return false;
     };
 
+    hate.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
+	        return f.properties['marker-color'] === '#B83D58';
+     
+	   });
+        return false;
+    };
+
+    robbery.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
+	        return f.properties['marker-color'] === '#a46537';
+     
+	   });
+        return false;
+    };
+
+    death.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
+	        return f.properties['marker-color'] === '#000000';
+     
+	   });
+        return false;
+    };
+
+    sick.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
+	        return f.properties['marker-color'] === '#20605A';
+     
+	   });
+        return false;
+    };
+    dc.onclick = function(e) {
+        all.className = '';
+        this.className = 'active';
+        // The setFilter function takes a GeoJSON feature object
+        // and returns true to show it or false to hide it.
+        markerLayer.setFilter(function(f) {
+	        return f.properties['marker-color'] === '#265373';
+     
+	   });
+        return false;
+    };
+
+
+
     all.onclick = function() {
         death.className = '';
+		dc.className = '';
+		fd.className = '';
+		robbery.className = '';
+		sick.className = '';
+		hate.className = '';
+		adw.className = '';
+		misc.className = '';
+		
         this.className = 'active';
         markerLayer.setFilter(function(f) {
             // Returning true for all markers shows everything.
