@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"1/11/2013, Address:543 500 new York Ave NE",
+                "description":"1/11/2013",
+"Address":"543 500 new York Ave NE",
                 "title": "ADW Other",
                 "marker-color": "#000000"
             },
@@ -19,7 +20,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"1/11/2013, Address:1500 2600 Bowen Rd SE",
+                "description":"1/11/2013",
+"Address":"1500 2600 Bowen Rd SE",
                 "title": "Misc Report",
                 "marker-color": "#fefdfb"
             },
@@ -34,7 +36,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"1/12/2013, Address:42 700 21St St NE",
+                "description":"1/12/2013",
+"Address":"42 700 21St St NE",
                 "title": "Simple Assault",
                 "marker-color": "#B83D58"
             },
@@ -49,7 +52,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"1/20/2013, Address:41 North Cap and T St NW",
+                "description":"1/20/2013",
+"Address":"41 North Cap and T St NW",
                 "title": "Misc Report Affiliate",
                 "marker-color": "#fefdfb"
             },
@@ -64,7 +68,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"2/10/2013, Address:2245 6200 North Dakota Ave NW",
+                "description":"2/10/2013",
+"Address":"2245 6200 North Dakota Ave NW",
                 "title": "Sex Abuse",
                 "marker-color": "#B83D58"
             },
@@ -79,7 +84,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"2/14/2013, Address:1110 427 Lebaum St SE",
+                "description":"2/14/2013",
+"Address":"1110 427 Lebaum St SE",
                 "title": "Simple Assault",
                 "marker-color": "#B83D58"
             },
@@ -94,7 +100,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"2/19/2013, Address:1800 4900 Foote St NE",
+                "description":"2/19/2013",
+"Address":"1800 4900 Foote St NE",
                 "title": "Towing Complaint",
                 "marker-color": "#fefdfb"
             },
@@ -109,7 +116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"2/22/2013, Address:1440 1300 H St NE",
+                "description":"2/22/2013",
+"Address":"1440 1300 H St NE",
                 "title": "Simple Assault",
                 "marker-color": "#B83D58"
             },
@@ -124,7 +132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"2/23/2013, Address:1010 3800 South Capital St SE",
+                "description":"2/23/2013",
+"Address":"1010 3800 South Capital St SE",
                 "title": "ADW Knife",
                 "marker-color": "#914BC3"
             },
@@ -139,7 +148,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/4/2013, Address:200 33 Patterson St NE",
+                "description":"3/4/2013",
+"Address":"200 33 Patterson St NE",
                 "title": "ADW Other CIC report 5 501",
                 "marker-color": "#914BC3"
             },
@@ -154,7 +164,8 @@
         {
             "type": "Feature",
             "properties": {
-				                "description":"3/5/2013, Address:2320 1200 Holbrook Ter NE",
+				                "description":"3/5/2013",
+"Address":"2320 1200 Holbrook Ter NE",
                 "title": "Robbery Knife CIC report 5 506",
                 "marker-color": "#a46537"
             },
@@ -169,7 +180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/7/2013, Address:230 Unknown Q ST NW",
+                "description":"3/7/2013",
+"Address":"230 Unknown Q ST NW",
                 "title": "Simple Assault",
                 "marker-color": "#B83D58"
             },
@@ -184,7 +196,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/8/2013, Address:1215 2006 Mississippi Ave SE",
+                "description":"3/8/2013",
+"Address":"1215 2006 Mississippi Ave SE",
                 "title": "Death Report Phone Call 7 704",
                 "marker-color": "#000000"
             },
@@ -199,7 +212,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/9/2013, Address:1700 1800 Capitol Ave NE",
+                "description":"3/9/2013",
+"Address":"1700 1800 Capitol Ave NE",
                 "title": "Robbery While Armed",
                 "marker-color": "#a46537"
             },
@@ -214,7 +228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/10/2013, Address:1700 4400 Connecticut Ave NW",
+                "description":"3/10/2013",
+"Address":"1700 4400 Connecticut Ave NW",
                 "title": "ADW Other",
                 "marker-color": "#914BC3"
             },
@@ -229,7 +244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/17/2013, Address:0327 4837 Benning Rd SE",
+                "description":"3/17/2013",
+"Address":"0327 4837 Benning Rd SE",
                 "title": "Misc Report",
                 "marker-color": "#fefdfb"
             },
@@ -244,7 +260,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/17/2013, Address:1430 19th and I ST NE",
+                "description":"3/17/2013",
+"Address":"1430 19th and I ST NE",
                 "title": "ADW Other Citywide 5 507",
                 "marker-color": "#914BC3"
             },
@@ -259,7 +276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/17/2013, Address:1630 20th and I ST NE",
+                "description":"3/17/2013",
+"Address":"1630 20th and I ST NE",
                 "title": "Other",
                 "marker-color": "#fefdfb"
             },
@@ -274,7 +292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/20/2013, Address:1737 800 H St NE",
+                "description":"3/20/2013",
+"Address":"1737 800 H St NE",
                 "title": "Threat/Simple Assault HATE",
                 "marker-color": "#B83D58"
             },
@@ -289,7 +308,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/22/2013, Address:0634 950 Eastern Ave NE",
+                "description":"3/22/2013",
+"Address":"0634 950 Eastern Ave NE",
                 "title": "Disorderly Conduct",
                 "marker-color": "#265373"
             },
@@ -304,7 +324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/25/2013, Address:1500 4th and Peabody NW",
+                "description":"3/25/2013",
+"Address":"1500 4th and Peabody NW",
                 "title": "Robbery",
                 "marker-color": "#a46537"
             },
@@ -319,7 +340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/25/2013, Address:1835 800 46th St NE",
+                "description":"3/25/2013",
+"Address":"1835 800 46th St NE",
                 "title": "Simple Assault",
                 "marker-color": "#B83D58"
             },
@@ -334,7 +356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/29/2013, Address:2300 Captial and Central Ave",
+                "description":"3/29/2013",
+"Address":"2300 Captial and Central Ave",
                 "title": "Robbery",
                 "marker-color": "#a46537"
             },
@@ -349,7 +372,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"3/31/2013, Address:1300 300 Hamilton St NW",
+                "description":"3/31/2013",
+"Address":"1300 300 Hamilton St NW",
                 "title": "Family Disturbance Walk In 4 405",
 
                 "marker-color": "#79D289"
@@ -365,7 +389,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/2/2013, Address:315 4600 Benning Rd SE",
+                "description":"4/2/2013",
+"Address":"315 4600 Benning Rd SE",
                 "title": "Information",
                 "marker-color": "#fefdfb"
             },
@@ -380,7 +405,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/7/2013, Address:145 1100 3rd ST NE",
+                "description":"4/7/2013",
+"Address":"145 1100 3rd ST NE",
                 "title": "Robbery While Armed",
                 "marker-color": "#a46537"
             },
@@ -395,7 +421,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/10/2013, Address:139 1st / K ST NE",
+                "description":"4/10/2013",
+"Address":"139 1st / K ST NE",
                 "title": "ADW Gun",
                 "marker-color": "#914BC3"
             },
@@ -410,7 +437,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/10/2013, Address:520 900 9th ST NW",
+                "description":"4/10/2013",
+"Address":"520 900 9th ST NW",
                 "title": "Robbery",
                 "marker-color": "#a46537"
             },
@@ -425,7 +453,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/11/2013, Address:1422 3003 Van Ness ST NW",
+                "description":"4/11/2013",
+"Address":"1422 3003 Van Ness ST NW",
                 "title": "ADW Knife",
                 "marker-color": "#914BC3"
             },
@@ -440,7 +469,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/14/2013, Address:0006 14th and Spring Rd NW",
+                "description":"4/14/2013",
+"Address":"0006 14th and Spring Rd NW",
                 "title": "Simple Assault",
                 "marker-color": "#B83D58"
             },
@@ -455,7 +485,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/15/2013, Address:230 1440 R ST NW",
+                "description":"4/15/2013",
+"Address":"230 1440 R ST NW",
                 "title": "Simple Assault DV",
                 "marker-color": "#B83D58"
             },
@@ -470,7 +501,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/24/2013, Address:1700 Wagner St SE/ Skyland Pl SE",
+                "description":"4/24/2013",
+"Address":"1700 Wagner St SE/ Skyland Pl SE",
                 "title": "ADW Car Duty Phone 7 701",
                 "marker-color": "#914BC3"
             },
@@ -485,7 +517,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"4/25/2013, Address:0412 4200 Benning Rd SE",
+                "description":"4/25/2013",
+"Address":"0412 4200 Benning Rd SE",
                 "title": "Theft 2",
                 "marker-color": ""
             },
@@ -500,7 +533,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"5/12/2013, Address:0200 3600 14th St NW",
+                "description":"5/12/2013",
+"Address":"0200 3600 14th St NW",
                 "title": "Robbery Snatch",
                 "marker-color": "#a46537"
             },
@@ -515,7 +549,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"5/13/2013, Address:0013 100 42nd ST NE",
+                "description":"5/13/2013",
+"Address":"0013 100 42nd ST NE",
                 "title": "Family Disturbance Emai 6 603",
                 "marker-color": "#79D289"
             },
@@ -530,7 +565,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"5/13/2013, Address:1830 700 Florida Ave NW",
+                "description":"5/13/2013",
+"Address":"1830 700 Florida Ave NW",
                 "title": "Robbery F&V",
                 "marker-color": "#a46537"
             },
@@ -545,7 +581,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"5/13/2013, Address:1132 1200 Franklin St NE",
+                "description":"5/13/2013",
+"Address":"1132 1200 Franklin St NE",
                 "title": "Threats",
                 "marker-color": "#565C1F"
             },
@@ -560,7 +597,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/11/2013, Address:0200 1300 Perry Pl NW",
+                "description":"6/11/2013",
+"Address":"0200 1300 Perry Pl NW",
                 "title": "Robbery",
                 "marker-color": "#a46537"
             },
@@ -575,7 +613,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/16/2013, Address:2011 22 57th St SE",
+                "description":"6/16/2013",
+"Address":"2011 22 57th St SE",
                 "title": "Death Report",
                 "marker-color": "#000000"
             },
@@ -590,7 +629,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/18/2013, Address:0406 700 block Eastern Ave NE",
+                "description":"6/18/2013",
+"Address":"0406 700 block Eastern Ave NE",
                 "title": "ADW Other",
                 "marker-color": "#914BC3"
             },
@@ -605,7 +645,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/21/2013, Address:1800 200 44th St NE",
+                "description":"6/21/2013",
+"Address":"1800 200 44th St NE",
                 "title": "Robbery CIC",
                 "marker-color": "#a46537"
             },
@@ -620,7 +661,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/21/2013, Address:0058 3000 Stanton Rd SE",
+                "description":"6/21/2013",
+"Address":"0058 3000 Stanton Rd SE",
                 "title": "AWIK",
                 "marker-color": "#fefdfb"
             },
@@ -635,7 +677,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/26/2013, Address:0345 400 Eastern Ave NE",
+                "description":"6/26/2013",
+"Address":"0345 400 Eastern Ave NE",
                 "title": "Robbery Gun Hate/Bias",
                 "marker-color": "#B83D58"
             },
@@ -650,7 +693,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/26/2013, Address:1740 100 Atlantic St SE",
+                "description":"6/26/2013",
+"Address":"1740 100 Atlantic St SE",
                 "title": "Sick Person",
                 "marker-color": "#20605A"
             },
@@ -665,7 +709,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/26/2013, Address:0430 5500 NH Burroughs Ave NE",
+                "description":"6/26/2013",
+"Address":"0430 5500 NH Burroughs Ave NE",
                 "title": "ADW Other",
                 "marker-color": "#914BC3"
             },
@@ -680,7 +725,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/27/2013, Address:0445 Minnesota Ave & Eastern Ave NE",
+                "description":"6/27/2013",
+"Address":"0445 Minnesota Ave & Eastern Ave NE",
                 "title": "Misc Report",
                 "marker-color": "#fefdfb"
             },
@@ -695,7 +741,8 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"6/27/2013, Address:0530 500 Eastern Ave NE",
+                "description":"6/27/2013",
+"Address":"0530 500 Eastern Ave NE",
                 "title": "ADW Gun",
                 "marker-color": "#914BC3"
             },
