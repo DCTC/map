@@ -74,13 +74,9 @@
 <script type='text/javascript'>
 var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 
-var markerLayer = L.mapbox.markerLayer()
-    .loadURL('map.geojson')
-    .addTo(map);
-	
-var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
-	
-	
+var geoJson = L.mapbox.markerLayer()
+    .loadURL('map.geojson');
+	markerLayer = L.mapbox.markerLayer(geoJson).addTo(map);	
  var death = document.getElementById('filter-death');
     var all = document.getElementById('filter-all');
 
