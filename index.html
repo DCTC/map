@@ -4,7 +4,6 @@
 <meta charset=utf-8 />
 <title></title>
   <script src='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.js'></script>
- <script src='http://underscorejs.org/underscore-min.js'></script>
   <link href='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.css' rel='stylesheet' />
   <!--[if lte IE 8]>
     <link href='//api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.ie.css' rel='stylesheet'>
@@ -12,7 +11,7 @@
   <style>
     body { margin:0; padding:0; }
     #map { position:absolute; top:0; bottom:0; width:100%; }
-
+	
   </style>
 <style>
     #map-ui {
@@ -78,6 +77,10 @@ var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 var markerLayer = L.mapbox.markerLayer()
     .loadURL('map.geojson')
     .addTo(map);
+	
+var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
+	
+	
  var death = document.getElementById('filter-death');
     var all = document.getElementById('filter-all');
 
@@ -87,7 +90,7 @@ var markerLayer = L.mapbox.markerLayer()
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
         map.markerLayer.setFilter(function(f) {
-            return f.properties['marker-color'] === '#000000';
+            return f.properties['marker-color'] === '#fefdfb';
         });
         return false;
     };
