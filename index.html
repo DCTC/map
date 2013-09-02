@@ -74,9 +74,9 @@
 <script type='text/javascript'>
 var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 
-var geoJson = L.mapbox.markerLayer()
-    .loadURL('map.geojson');
-	markerLayer = L.mapbox.markerLayer(geoJson).addTo(map);	
+var markerLayer = L.mapbox.markerLayer()
+    .loadURL('map.geojson')
+    .addTo(map);	
  var death = document.getElementById('filter-death');
     var all = document.getElementById('filter-all');
 
@@ -85,16 +85,18 @@ var geoJson = L.mapbox.markerLayer()
         this.className = 'active';
         // The setFilter function takes a GeoJSON feature object
         // and returns true to show it or false to hide it.
-        markerLayer.setFilter(function(f) {
-            return f.properties['marker-color'] === '#fefdfb';
-        });
+        map.markerLayer.setFilter(function(f) {
+    debugger;
+	        return f.properties['marker-color'] === '#fefdfb';
+     
+	   });
         return false;
     };
 
     all.onclick = function() {
         death.className = '';
         this.className = 'active';
-        markerLayer.setFilter(function(f) {
+        map.markerLayer.setFilter(function(f) {
             // Returning true for all markers shows everything.
             return true;
         });
