@@ -81,6 +81,7 @@ var markerLayer = L.mapbox.markerLayer()
     var all = document.getElementById('filter-all');
 
     death.onclick = function(e) {
+		debugger;
         all.className = '';
         this.className = 'active';
         // The setFilter function takes a GeoJSON feature object
