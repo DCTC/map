@@ -24,7 +24,8 @@
                 "date":"1/11/2013",
 "address":"1500 2600 Bowen Rd SE",
                 "offense": "Misc Report",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -40,7 +41,8 @@
                 "date":"1/12/2013",
 "address":"42 700 21St St NE",
                 "offense": "Simple Assault",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -56,7 +58,8 @@
                 "date":"1/20/2013",
 "address":"41 North Cap and T St NW",
                 "offense": "Misc Report Affiliate",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +75,8 @@
                 "date":"2/10/2013",
 "address":"2245 6200 North Dakota Ave NW",
                 "offense": "Sex Abuse",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -88,7 +92,8 @@
                 "date":"2/14/2013",
 "address":"1110 427 Lebaum St SE",
                 "offense": "Simple Assault",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "date":"2/19/2013",
 "address":"1800 4900 Foote St NE",
                 "offense": "Towing Complaint",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "date":"2/22/2013",
 "address":"1440 1300 H St NE",
                 "offense": "Simple Assault",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +143,8 @@
                 "date":"2/23/2013",
 "address":"1010 3800 South Capital St SE",
                 "offense": "ADW Knife",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +160,8 @@
                 "date":"3/4/2013",
 "address":"200 33 Patterson St NE",
                 "offense": "ADW Other CIC report 5 501",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -168,7 +177,8 @@
 				                "date":"3/5/2013",
 "address":"2320 1200 Holbrook Ter NE",
                 "offense": "Robbery Knife CIC report 5 506",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -184,7 +194,8 @@
                 "date":"3/7/2013",
 "address":"230 Unknown Q ST NW",
                 "offense": "Simple Assault",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "date":"3/9/2013",
 "address":"1700 1800 Capitol Ave NE",
                 "offense": "Robbery While Armed",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "date":"3/10/2013",
 "address":"1700 4400 Connecticut Ave NW",
                 "offense": "ADW Other",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "date":"3/17/2013",
 "address":"0327 4837 Benning Rd SE",
                 "offense": "Misc Report",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "date":"3/17/2013",
 "address":"1430 19th and I ST NE",
                 "offense": "ADW Other Citywide 5 507",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -281,7 +296,8 @@
                 "date":"3/17/2013",
 "address":"1630 20th and I ST NE",
                 "offense": "Other",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -297,7 +313,8 @@
                 "date":"3/20/2013",
 "address":"1737 800 H St NE",
                 "offense": "Threat/Simple Assault HATE",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +330,8 @@
                 "date":"3/22/2013",
 "address":"0634 950 Eastern Ave NE",
                 "offense": "Disorderly Conduct",
-                "marker-color": "#265373"
+                "marker-color": "#265373",
+                "title": "Disorderly Conduct"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +347,8 @@
                 "date":"3/25/2013",
 "address":"1500 4th and Peabody NW",
                 "offense": "Robbery",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +364,8 @@
                 "date":"3/25/2013",
 "address":"1835 800 46th St NE",
                 "offense": "Simple Assault",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +381,8 @@
                 "date":"3/29/2013",
 "address":"2300 Captial and Central Ave",
                 "offense": "Robbery",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -377,8 +398,8 @@
                 "date":"3/31/2013",
 "address":"1300 300 Hamilton St NW",
                 "offense": "Family Disturbance Walk In 4 405",
-
-                "marker-color": "#79D289"
+                "marker-color": "#265373",
+                "title": "Family Disturbance"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +415,8 @@
                 "date":"4/2/2013",
 "address":"315 4600 Benning Rd SE",
                 "offense": "Information",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +432,8 @@
                 "date":"4/7/2013",
 "address":"145 1100 3rd ST NE",
                 "offense": "Robbery While Armed",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +449,8 @@
                 "date":"4/10/2013",
 "address":"139 1st / K ST NE",
                 "offense": "ADW Gun",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +466,8 @@
                 "date":"4/10/2013",
 "address":"520 900 9th ST NW",
                 "offense": "Robbery",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -458,7 +483,8 @@
                 "date":"4/11/2013",
 "address":"1422 3003 Van Ness ST NW",
                 "offense": "ADW Knife",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +500,8 @@
                 "date":"4/14/2013",
 "address":"0006 14th and Spring Rd NW",
                 "offense": "Simple Assault",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -490,7 +517,8 @@
                 "date":"4/15/2013",
 "address":"230 1440 R ST NW",
                 "offense": "Simple Assault DV",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -506,7 +534,8 @@
                 "date":"4/24/2013",
 "address":"1700 Wagner St SE/ Skyland Pl SE",
                 "offense": "ADW Car Duty Phone 7 701",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +551,8 @@
                 "date":"4/25/2013",
 "address":"0412 4200 Benning Rd SE",
                 "offense": "Theft 2",
-                "marker-color": ""
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +568,8 @@
                 "date":"5/12/2013",
 "address":"0200 3600 14th St NW",
                 "offense": "Robbery Snatch",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +585,8 @@
                 "date":"5/13/2013",
 "address":"0013 100 42nd ST NE",
                 "offense": "Family Disturbance Emai 6 603",
-                "marker-color": "#79D289"
+                "marker-color": "#265373",
+                "title": "Family Disturbance"
             },
             "geometry": {
                 "type": "Point",
@@ -570,7 +602,8 @@
                 "date":"5/13/2013",
 "address":"1830 700 Florida Ave NW",
                 "offense": "Robbery F&V",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -586,7 +619,8 @@
                 "date":"5/13/2013",
 "address":"1132 1200 Franklin St NE",
                 "offense": "Threats",
-                "marker-color": "#565C1F"
+                "marker-color": "#565C1F",
+                "title": "Threat"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +636,8 @@
                 "date":"6/11/2013",
 "address":"0200 1300 Perry Pl NW",
                 "offense": "Robbery",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +670,8 @@
                 "date":"6/18/2013",
 "address":"0406 700 block Eastern Ave NE",
                 "offense": "ADW Other",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +687,8 @@
                 "date":"6/21/2013",
 "address":"1800 200 44th St NE",
                 "offense": "Robbery CIC",
-                "marker-color": "#a46537"
+                "marker-color": "#a46537",
+                "title": "Robbery"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +704,8 @@
                 "date":"6/21/2013",
 "address":"0058 3000 Stanton Rd SE",
                 "offense": "AWIK",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +721,8 @@
                 "date":"6/26/2013",
 "address":"0345 400 Eastern Ave NE",
                 "offense": "Robbery Gun Hate/Bias",
-                "marker-color": "#B83D58"
+                "marker-color": "#B83D58",
+                "titler": "Hate Crime/Bias"
             },
             "geometry": {
                 "type": "Point",
@@ -699,7 +738,8 @@
                 "date":"6/26/2013",
 "address":"1740 100 Atlantic St SE",
                 "offense": "Sick Person",
-                "marker-color": "#20605A"
+                "marker-color": "#20605A",
+                "title": "Sick Person"
             },
             "geometry": {
                 "type": "Point",
@@ -715,7 +755,8 @@
                 "date":"6/26/2013",
 "address":"0430 5500 NH Burroughs Ave NE",
                 "offense": "ADW Other",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +772,8 @@
                 "date":"6/27/2013",
 "address":"0445 Minnesota Ave & Eastern Ave NE",
                 "offense": "Misc Report",
-                "marker-color": "#fefdfb"
+                "marker-color": "#fefdfb",
+                "title": "Misc"
             },
             "geometry": {
                 "type": "Point",
@@ -747,7 +789,8 @@
                 "date":"6/27/2013",
 "address":"0530 500 Eastern Ave NE",
                 "offense": "ADW Gun",
-                "marker-color": "#914BC3"
+                "marker-color": "#914BC3",
+                "title": "Assault with a Deadly Weapon"
             },
             "geometry": {
                 "type": "Point",
