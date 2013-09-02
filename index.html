@@ -11,7 +11,7 @@
   <style>
     body { margin:0; padding:0; }
     #map { position:absolute; top:0; bottom:0; width:100%; }
-	.popup {
+	.leaflet-popup-content {
     text-align: center;
 }
 .popup img {
@@ -33,6 +33,7 @@
     }
 
     #map-ui a {
+		font:"Trebuchet MS", Arial, Helvetica, sans-serif;
         font-size: 13px;
         background: #FFF;
         color: #3C4E5A;
@@ -276,8 +277,8 @@ var map = L.mapbox.map('map', 'atnatah.map-p4ibshg7');
 
     // Create custom popup content
     var popupContent =  '<h2>' + feature.properties.title + '</h2>' +
-                            '<b>Date:</b>' + feature.properties.date + '</br>' +
-							'<b>Address:</b>' + feature.properties.address + '</br>' +
+                            '<b>Date: </b>' + feature.properties.date + '</br>' +
+							'<b>Address: </b>' + feature.properties.address + '</br>' +
                         '  Offense: ' + feature.properties.offense;
 
     // http://leafletjs.com/reference.html#popup
